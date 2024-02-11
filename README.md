@@ -1,5 +1,9 @@
 # Generative_Ai
 ## Generative Ai concept 
+
+```
+Word2Vec model with our one data set. with dimension 150. We can modify dim, and epochs. You can try with your own data.
+```
 ```
 1.Text-PreProcessing
 2. Text Embedding
